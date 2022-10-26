@@ -1,0 +1,16 @@
+.geral{
+
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 100px;
+    justify-content: center;
+    
+}
+
+.oi{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    width: 70%;
+}
